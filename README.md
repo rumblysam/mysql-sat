@@ -2,6 +2,7 @@
 ## Classwork for 4-8-17
 
 Shit I learned during class that wasn't necessarily taught in class.
+
 **Error:** `database already exists` 
 **Fix:** `CREATE DATABASE IF NOT EXISTS` 
 
@@ -69,5 +70,5 @@ and then reran the `LOAD FILE INTO` command and then...
 ### BAMMM!
 `5000 rows in set (0.01 sec)`
 
-`INSERT mic_drop INTO`
+`INSERT mic_drop INTO sam_is_awesomeDB`
 
